@@ -2,7 +2,7 @@ import React from 'react'
 import {BiBeenHere} from 'react-icons/bi'
 
 export default function Card(props){
-    console.log(props)
+    
     return (
         <section className='card'>
             <div className='card--country'>
